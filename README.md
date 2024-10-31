@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Cyber-Security Projects:</h2>
 
+## 📂 Featured Projects
+
+- **Active Directory Lab Setup**  
+  - [Step-by-Step Guide and PowerShell Script](https://github.com/Sagar-Sec/Active-Directory-Lab-Setup) (setup for Windows Server Active Directory, user creation, and security configurations)
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
